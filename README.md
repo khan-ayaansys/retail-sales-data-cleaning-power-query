@@ -21,3 +21,15 @@ The final cleaned dataset became more structured, organized, and analysis-ready.
 
 ## Dataset Source
 Dataset downloaded from Kaggle.
+
+
+## Project Screenshots
+
+### Raw Dataset
+![Raw Datasets](raw-datasets.png)
+
+### Power Query Cleaning
+![Power Query Cleaning](power-query-cleaning.png)
+
+### Cleaned Dataset
+![Cleaned Dataset](cleaned-data-in-power-query.png)
